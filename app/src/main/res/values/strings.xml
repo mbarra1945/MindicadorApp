@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mindicador App</string>
+
+    <string-array name="indicadores">
+        <item>UF</item>
+        <item>UTM</item>
+        <item>EUR</item>
+        <item>USD</item>
+    </string-array>
+
+    <string name="header_title">Mindicador App</string>
+    <string name="header_description">Indicadores económicos de Chile</string>
+
+    <string name="converter_title">Conversor</string>
+
+    <string name="currency_1">USD</string>
+    <string name="currency_2">CLP</string>
+
+    <string name="converter_icon">converter</string>
+    <string name="date_icon">date</string>
+
+    <string name="codigo">dolar</string>
+    <string name="nombre">Dólar observado</string>
+    <string name="unidad_medida">Pesos</string>
+    <string name="fecha">2018-04-19T04:00:00.000Z</string>
+    <!-- 1 UF = 26984.86 -->
+    <string name="valor">594.41</string>
+
+    <!-- different between today and yesterday value -->
+    <string name="info">$-1.41</string>
+</resources>
